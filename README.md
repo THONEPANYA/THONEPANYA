@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @THONEPANYA</h1>
 <h3 align="center">Now I'm Study English And IT (Information Technology) at Lao-Top College</h3>
 
-- 🌱 I’m currently learning **C,C++,C#,JAVASCRIPT**
+- 🌱 I’m currently learning **C , C++ , C# , JAVASCRIPT**
 
 - 💬 Ask me about **Code++**
 

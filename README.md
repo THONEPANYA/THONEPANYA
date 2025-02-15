@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @THONEPANYA</h1>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently learning **C , C++ , C# , JAVASCRIPT**
+- 🌱 I’m currently learning **C , C++ **
 
 - 💬 Ask me about **Code++**
 

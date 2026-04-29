@@ -1,13 +1,47 @@
-<h1 align="center">Hi 👋, I'm @THONEPANYA</h1>
-<h3 align="center"></h3>
+# <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /> Hi there! I'm THONEPANYA </p>
 
-- 🌱 I’m currently learning **C , C++ **
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Writing+C,+Python,+JS,+and+Lua;⚛️+Exploring+Node.js+%26+React;🚀+FiveM+Server+Developer;🌱+Documenting+my+growth+in+tech" alt="Typing SVG" />
+  </a>
+</p>
 
-- 💬 Ask me about **Code++**
+---
 
-- 📫 How to reach me **sihapanya.inth@gmail.com**
+### 👨‍💻 About Me
 
-- ⚡ Fun fact **I like to learn Computer Language, I just want to document my growth in this area.**
+- 🔭 I actively write and develop projects using **C, Python, JavaScript, and Lua**.
+- 🌱 I have foundational knowledge and am currently exploring **Node.js** and **React**.
+- 🎮 I have a strong passion for **FiveM server development**, writing custom Lua scripts, and building anti-cheat systems.
+- 🤖 I enjoy creating useful **Discord Bots** for server management and community engagement.
+- 📫 Reach out to me via: **[sihapanya.inth@gmail.com](mailto:sihapanya.inth@gmail.com)**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img 
+---
+
+### 🔥 Featured Projects & Interests
+
+Here are some of the areas I actively work on:
+
+* **🛡️ FiveM Development:** Creating server-side scripts like `lavan_whitelist`, `lavan_Identity`, and advanced systems like `anitchest-fivem`.
+* **🤖 Discord Bots:** Developed `my-discord-bot` and `lavan_community_bot` to help manage communities and automate tasks.
+* **🌐 Web & Tools:** Building web portfolios, analyzers, and the `ITNE-Blacklist` (Unreliable Seller Alert System).
+* **💻 Low-Level & Scripts:** Working on C study projects and Python-based analyzers.
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,js,lua,nodejs,react,html,css,discord,linux&perline=10" alt="Languages and Tools" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=THONEPANYA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="THONEPANYA's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THONEPANYA&theme=tokyonight&hide_border=true&background=0D1117" alt="THONEPANYA's Streak" width="48%" />
+</p>
